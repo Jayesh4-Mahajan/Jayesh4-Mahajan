@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jayesh4-Mahajan
 - 👀 I’m interested in Mangas, LightNovels, Politics, F1 & Travelling.
-- 🌱 I’m currently learning JavaScript, React
+- 🌱 I’m currently learning Django, Pyspark, AirFlow
 - 💞️ I’m looking to collaborate on Freelance projects
 - 📫 How to reach me Linkedin https://www.linkedin.com/in/jayesh-mahajan/
 
